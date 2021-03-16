@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/website/static/js/main.17ac1722.chunk.js",
+    "main.js.map": "/website/static/js/main.17ac1722.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.09147000.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.09147000.js.map",
+    "static/js/2.504b1667.chunk.js": "/website/static/js/2.504b1667.chunk.js",
+    "static/js/2.504b1667.chunk.js.map": "/website/static/js/2.504b1667.chunk.js.map",
+    "static/js/3.5b9ea0f2.chunk.js": "/website/static/js/3.5b9ea0f2.chunk.js",
+    "static/js/3.5b9ea0f2.chunk.js.map": "/website/static/js/3.5b9ea0f2.chunk.js.map",
+    "index.html": "/website/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/website/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.504b1667.chunk.js.LICENSE.txt": "/website/static/js/2.504b1667.chunk.js.LICENSE.txt",
+    "static/media/claudio-schwarz-purzlbaum-sJXxk4LHe5k-unsplash.f77cf3de.jpg": "/website/static/media/claudio-schwarz-purzlbaum-sJXxk4LHe5k-unsplash.f77cf3de.jpg",
+    "static/media/lukasz-szmigiel-jFCViYFYcus-unsplash.69aba6e3.jpg": "/website/static/media/lukasz-szmigiel-jFCViYFYcus-unsplash.69aba6e3.jpg",
+    "static/media/max-duzij-NhG05ImWSIo-unsplash.a63d9036.jpg": "/website/static/media/max-duzij-NhG05ImWSIo-unsplash.a63d9036.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09147000.js",
+    "static/js/2.504b1667.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.17ac1722.chunk.js"
+  ]
+}
